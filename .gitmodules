@@ -1,0 +1,9 @@
+[submodule "eca-config-server"]
+	path = eca-config-server
+	url = https://github.com/hasinduudara/eca-config-server.git
+[submodule "eca-eureka-server"]
+	path = eca-eureka-server
+	url = https://github.com/hasinduudara/eca-eureka-server.git
+[submodule "eca-api-gateway"]
+	path = eca-api-gateway
+	url = https://github.com/hasinduudara/eca-api-gateway.git
