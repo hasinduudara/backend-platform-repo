@@ -7,3 +7,6 @@
 [submodule "eca-api-gateway"]
 	path = eca-api-gateway
 	url = https://github.com/hasinduudara/eca-api-gateway.git
+[submodule "eca-config-repo"]
+	path = eca-config-repo
+	url = https://github.com/hasinduudara/eca-config-repo.git
